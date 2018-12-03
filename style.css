@@ -9,8 +9,8 @@ html, body {
     text-align: center;
   }
   .card {
-    width: 350px;
-    padding: 30px;
+    width: 300px;
+    padding: 20px;
     background: white;
     margin: auto;
     transition: 0.3s ease;
@@ -31,8 +31,7 @@ html, body {
     background-position: 0 0;
     display: inline;
     /* speed of highlight */
-    transition: 0.9s ease-in-out;
-    text-transform: uppercase;
+    transition: 0.7s ease-in-out;
   }
   .title a {
     font-family: 'Caveat', cursive;
