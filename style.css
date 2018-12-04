@@ -1,11 +1,12 @@
 @import url('https://fonts.googleapis.com/css?family=Caveat');
 
+
 html, body {
     height: 100%;
   }
   body {
     background: rgb(30, 57, 85);
-    display: flex;
+    
     text-align: center;
   }
   .card {
@@ -32,14 +33,12 @@ html, body {
 
 
 
-		
+
 		font-family: 'Caveat', cursive;
 		color: black;
 		text-decoration: none !important;
 		padding-bottom: 5px;
 		line-height: 2;
-		
   }
   
- 
-  
+	@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
