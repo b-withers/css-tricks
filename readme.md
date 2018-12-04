@@ -2,6 +2,8 @@ This is a page I created using various CSS / SVG elements on sites I have design
 
 Highlight on Hover:
 
-<img src="assets/images/readme/highlight.gif">
+<img style="width: 300px" src="assets/images/readme/highlight.gif">
 
 SVG Typing animation:
+
+<img style="width: 300px" src="assets/images/readme/typing.gif">
