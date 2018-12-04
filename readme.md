@@ -6,4 +6,4 @@ Highlight on Hover:
 
 SVG Typing animation:
 
-<img style="width: 300px" src="assets/images/readme/typing.gif">
+<img src="assets/images/readme/typing.gif" width="200">
