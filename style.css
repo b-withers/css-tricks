@@ -29,11 +29,16 @@ html, body {
     background-size: 200%;
     /* speed of highlight */
 		transition: 0.7s ease-in-out;
+
+
+
+		
 		font-family: 'Caveat', cursive;
 		color: black;
 		text-decoration: none !important;
 		padding-bottom: 5px;
 		line-height: 2;
+		
   }
   
  
