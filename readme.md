@@ -2,8 +2,10 @@
 
 <b>Highlight on Hover:</b>
 <hr>
+<br>
 <img src="assets/images/readme/highlight.gif" width="600">
 
 <b>SVG Typing animation:</b>
 <hr>
+<br>
 <img src="assets/images/readme/typing.gif" width="600">
