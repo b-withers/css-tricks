@@ -9,7 +9,7 @@ html, body {
     text-align: center;
   }
   .card {
-    width: 300px;
+    width: 420px;
     padding: 20px;
     background: white;
 		margin: auto;
@@ -27,15 +27,14 @@ html, body {
       /* highlight color */
 		background: linear-gradient(to right,rgba(255, 255, 255, 0) 50%, rgb(244, 255, 145) 100%);
     background-size: 200%;
-    background-position: 0 0;
-    display: inline;
     /* speed of highlight */
 		transition: 0.7s ease-in-out;
+		font-family: 'Caveat', cursive;
+		color: black;
+		text-decoration: none !important;
+		padding-bottom: 5px;
+		line-height: 2;
   }
-  .title a {
-    font-family: 'Caveat', cursive;
-    color: black;
-    text-decoration: none;
-  }
+  
  
   
