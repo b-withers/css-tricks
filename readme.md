@@ -1,11 +1,10 @@
 <h2>This is a page I created using various CSS / SVG elements on sites I have designed.</h2>
+<hr>
 
 <b>Highlight on Hover:</b>
 <hr>
-<br>
 <img src="assets/images/readme/highlight.gif" width="600">
 
 <b>SVG Typing animation:</b>
 <hr>
-<br>
 <img src="assets/images/readme/typing.gif" width="600">
