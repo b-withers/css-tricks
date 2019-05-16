@@ -44,6 +44,26 @@
 		</div>
 	</div>
 
+	<div class="container" style="color: white;">
+		<div class="row">
+			<p>Did you know you can change elements on a page using the URL? Try adding ?red to the end of the URL, it will
+				change the body from blue to red!</p>
+				<p>Here is the jQuery code I used to do the following: check the URL with .has (will return true or false), then create a simple if statement for it the URL contains red (?red or &red) at the end. If it does, console.log that it is working, then use jquery to change the body color. This is a pretty simple example, but the possibilites are endless with this trick.</p>
+			<div style="text-align: left !important;">
+				&lt;script&gt;<br>
+				$(document).ready(function () { <br>
+				var urlParams = new URLSearchParams(window.location.search); <br>
+				console.log(urlParams.has('red')); <br>
+				if (urlParams.has('red')) {<br>
+				console.log('red is working');<br>
+				$('body').css('background', 'red');<br>
+				};<br>
+				});<br>
+			&lt;/script&gt;
+		</div>
+	</div>
+	</div>
+
 
 	<script>
 		$(document).ready(function () {
